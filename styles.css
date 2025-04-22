@@ -41,7 +41,7 @@ ul {
 }
 
 .btn {
-    display: inline-block;
+    display: list;
     background: var(--primary-color);
     color: var(--white);
     padding: 10px 25px;
