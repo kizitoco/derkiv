@@ -746,8 +746,8 @@ span.visuals {
 .form-group textarea {
     width: 100%;
     padding: 12px 20px;
-    border: 1px solid var(--light-gray);
-    border-radius: 5px;
+    border: 0px solid var(--light-gray);
+    border-radius: 0px;
     font-family: 'Poppins', sans-serif;
     transition: border-color 0.3s ease;
 }
